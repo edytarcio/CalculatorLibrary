@@ -13,3 +13,7 @@ def subtract(first_operator, second_operator):
 
 def multiplication(first_operator, second_operator):
     return first_operator * second_operator
+
+
+def division(first_operator, second_operator):
+    return first_operator / second_operator
